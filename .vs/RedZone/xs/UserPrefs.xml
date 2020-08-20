@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{1730B68E-97B9-42EE-1342-5B77F7E319DA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/mctrl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/mctrl.cs" />
+      <File FileName="Assets/Scripts/deleter.cs" />
+      <File FileName="Assets/Scripts/game_end.cs" />
+      <File FileName="Assets/Scripts/Goback.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cda59307-ee56-4b1e-b5fb-d9c0c6f4335d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
